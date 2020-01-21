@@ -19,6 +19,12 @@ def add_element_to_start_of_array(x, y)
   x.unshift(y)
 end
 
+def remove_element_from_start_of_array(x)
+  x.shift
+end
+
+
+
 
 #def create_an_empty_array
 #array = []
