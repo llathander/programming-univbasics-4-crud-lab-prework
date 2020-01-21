@@ -35,6 +35,11 @@ def retrieve_first_element_from_array(x)
   x[0]
 end
 
+def update_element_from_index(x, y, z)
+  x [1]  = "whatever"
+
+
+
 #def create_an_empty_array
 #array = []
 #end
