@@ -23,7 +23,9 @@ def remove_element_from_start_of_array(x)
   x.shift
 end
 
-
+def retrieve_element_from_index(x, y)
+  x[y]
+end
 
 
 #def create_an_empty_array
