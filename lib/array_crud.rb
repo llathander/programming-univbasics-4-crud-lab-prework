@@ -31,6 +31,10 @@ def retrieve_last_element_from_array(x)
   x[-1]
 end
 
+def retrieve_first_element_from_array(x, y)
+  x[0]
+end
+
 #def create_an_empty_array
 #array = []
 #end
