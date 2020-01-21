@@ -11,6 +11,9 @@ def add_element_to_end_of_array(x, y)
   x << y
 end
 
+def remove_element_from_end_of_array(x)
+  x.pop
+end
 
 
 
