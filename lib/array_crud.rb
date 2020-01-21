@@ -27,6 +27,9 @@ def retrieve_element_from_index(x, y)
   x[y]
 end
 
+def retrieve_last_element_from_array(x)
+  x(-1)
+end
 
 #def create_an_empty_array
 #array = []
