@@ -36,7 +36,7 @@ def retrieve_first_element_from_array(x)
 end
 
 def update_element_from_index(x, y, z)
-  x [1]  = "whatever"
+  x [1]  = "totally"
 end
 
 
